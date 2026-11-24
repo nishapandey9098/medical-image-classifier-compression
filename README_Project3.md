@@ -1,6 +1,6 @@
 # Compressing a Medical Image Classifier for Offline Use: FP16, INT8 and Pruning Trade-offs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Project3_Model_Compression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishapandey9098/medical-image-classifier-compression/blob/main/Project3_Model_Compression.ipynb)
 
 > A small, reproducible benchmark study on public low-resolution datasets. **Not validated for clinical use.**
 
